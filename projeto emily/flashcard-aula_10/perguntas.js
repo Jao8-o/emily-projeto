@@ -1,6 +1,6 @@
 criaCartao(
     'Matematica',
-    'Qunato é 2+2?',
+    'Quanto é 2+2?',
     '4'
 )
 
